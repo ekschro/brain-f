@@ -1,5 +1,5 @@
-# Brain F!@# Interpreter and Compiler
-This is a interpreter and compiler for the esoteric language BrainF!@# written in x86 assembly and C, respectively.
+# Brain F Interpreter and Compiler
+This is a interpreter and compiler for the esoteric language BrainF written in x86 assembly and C, respectively.
 
 ##### For The Compiler
 * `gcc compiler.c -o compiler`
